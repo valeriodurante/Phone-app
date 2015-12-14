@@ -1,0 +1,3 @@
+risoluzione ppi: 200
+
+720x1280

@@ -1,0 +1,6 @@
+ildistruggitore@virgilio.i
+localhost
+-------------------------
+MYSQL
+U:root
+PW:admin
