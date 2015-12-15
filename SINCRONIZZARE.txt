@@ -1,0 +1,6 @@
+SHIFT+TASTO DESTRO
+APRILE TERMINALE QUI
+git pull
+git add *
+git commit -m "commento"
+git push
