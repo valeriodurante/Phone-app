@@ -1,6 +1,11 @@
 SHIFT+TASTO DESTRO
-APRILE TERMINALE QUI
+APRI FINESTRA DI COMANDO
 git pull
 git add *
 git commit -m "commento"
 git push
+nome RobertoDurante
+psw caccaurina0
+
+
+https://github.com/
